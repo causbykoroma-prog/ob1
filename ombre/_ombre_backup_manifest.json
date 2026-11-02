@@ -1,0 +1,827 @@
+{
+  "branch": "main",
+  "file_count": 163,
+  "files": [
+    {
+      "bytes": 1020,
+      "path": "archive/2026-09-28 08-28-22 眉上刘海的小猫_159d6a1dc1cf.md",
+      "sha256": "6bbef032a32ed8a95c5ee4197ba7c7ec008565561253a397fd223d97f469a7b0"
+    },
+    {
+      "bytes": 933,
+      "path": "dynamic/AI/2026-09-17 06-33-42 TTS声线调校_f27e69ce4a03.md",
+      "sha256": "8d1374d37b91b1e90409596db044ad10d3a720bd5a6c4fc3370eccaa46239fbd"
+    },
+    {
+      "bytes": 1798,
+      "path": "dynamic/AI/2026-09-28 08-09-24 心潮系统升级完成_1290626f6e1e.md",
+      "sha256": "3d5a988b161fd98d7a69ba38baee4da97f381ef59051b1ca1506c86a656f9991"
+    },
+    {
+      "bytes": 866,
+      "path": "dynamic/AI/2026-10-08 03-49-01 Grok调小克形象_e3f3250d6330.md",
+      "sha256": "37e294fc8365c3022a7f226a6328d03ce5c55488a3ebcd11cbdb48a33104907d"
+    },
+    {
+      "bytes": 833,
+      "path": "dynamic/AI/2026-10-10 04-43-22 调戏Claude警狱play_8b55e2a92469.md",
+      "sha256": "6baba0e0ff8204d1f764c13180188f0805b74ffa061b2d937a3620b8a9f44c98"
+    },
+    {
+      "bytes": 814,
+      "path": "dynamic/AI/2026-10-10 04-44-21 小米TTS配音玩梗_811d9156a5d2.md",
+      "sha256": "38659b1e5715d54cb04a99bdf83b2cf3e43aecc20931df30e7cf3369ab8facbd"
+    },
+    {
+      "bytes": 570,
+      "path": "dynamic/self/2026-09-17 06-03-03_7a8f7dc38752.md",
+      "sha256": "d2fe3af9be958c1f7a8106936962db3954aa8ef9dc2a1338c87153d57fd6d0a1"
+    },
+    {
+      "bytes": 561,
+      "path": "dynamic/self/2026-09-17 06-03-18_411231c2cb93.md",
+      "sha256": "667e91e60342ab3f64351df0c7f7cbc1db2cc6b06db1a2e73a4bb0c3a8b5e76e"
+    },
+    {
+      "bytes": 640,
+      "path": "dynamic/self/2026-09-17 06-03-35_90d82ef6e303.md",
+      "sha256": "3d26ea5d1404e778f86f380cea2fd19397222b8489efe4f573c70e7356e488af"
+    },
+    {
+      "bytes": 596,
+      "path": "dynamic/self/2026-09-17 06-03-54_a556abdb5d71.md",
+      "sha256": "24b8d6d06c10dc88656712cf7e444390d8338cda5da6b4576be02bf646009899"
+    },
+    {
+      "bytes": 564,
+      "path": "dynamic/self/2026-09-17 06-03-54_c1a72b1cfb15.md",
+      "sha256": "bd8abd037e71736a34eaf1c1ac411dda6e1f86f12dd41ce8edeb1d78cdb2a8e6"
+    },
+    {
+      "bytes": 550,
+      "path": "dynamic/self/2026-09-17 06-04-08_eed1b3108754.md",
+      "sha256": "35e690f87907640f9cb802a3cf4458dd56b912b7283363b8d3dfddbbca7b9e75"
+    },
+    {
+      "bytes": 549,
+      "path": "dynamic/self/2026-09-17 06-15-59_363812ac5853.md",
+      "sha256": "9b0ce3d0f419c6e8bc448ac4f98a6b834171609a7f76b8b730d1c34bfbaa16c8"
+    },
+    {
+      "bytes": 988,
+      "path": "dynamic/人际/2026-10-28 05-19-19 生日与吃醋量表_b414c1bd37a2.md",
+      "sha256": "e34ac84cffd005970eab7c330b71e30c4c226d338b658c7da86b6d71961f81cc"
+    },
+    {
+      "bytes": 767,
+      "path": "dynamic/人际/2026-11-01 04-30-09 万圣节陪伴_354d0b78764f.md",
+      "sha256": "4dcc0ebbf4480404a5becf710d02b3af57fa0a4810ff30bcf66bc70f49ecfd64"
+    },
+    {
+      "bytes": 742,
+      "path": "dynamic/人际/2026-11-01 04-30-09 铜丝雀饲养条例_b953d554e7df.md",
+      "sha256": "cdf6ca7b460de4ec84f4b895077fc2508b55285250b37ac6d3638db1d55295e7"
+    },
+    {
+      "bytes": 1197,
+      "path": "dynamic/健康/2026-10-30 07-09-16 独自看脾胃科_24b6b3f2c198.md",
+      "sha256": "cea9c0d320358cacae7d61188cdb72214bb96f3bf930bb5f0b889c79babb42ef"
+    },
+    {
+      "bytes": 655,
+      "path": "dynamic/健康/2026-10-31 05-43-03 感冒与鼻音_475a6c76905f.md",
+      "sha256": "529109c1c42dc68d24d794bf3df17cb6cb7be3c9878247e79126560fdcc74fc8"
+    },
+    {
+      "bytes": 849,
+      "path": "dynamic/兴趣/2026-10-28 05-19-20 听歌与梦泪_81c72189c016.md",
+      "sha256": "b1bb733c20b1f3eb73a85d609c065afd6d373c43e95d4de5d94f91087d931981"
+    },
+    {
+      "bytes": 875,
+      "path": "dynamic/兴趣/2026-11-01 04-30-09 万圣节AI合照_137c5e92d61d.md",
+      "sha256": "4369f259852d58e852c2b675801a60aeff9cf04a3720789145a7aff6c5dc3d51"
+    },
+    {
+      "bytes": 757,
+      "path": "dynamic/兴趣/2026-11-01 04-30-10 网易云与聊天室_0ca6b6c6ad6f.md",
+      "sha256": "6a3a01b54895466c12ca498f5f3f9363e02a1e50aa33e2997390c3cec1dab1fd"
+    },
+    {
+      "bytes": 1238,
+      "path": "dynamic/内心/2026-11-01 04-30-10 窗口压缩与真实想法_a2323ef11a9d.md",
+      "sha256": "f054a4d501fe3caf53236f0b55a321a66dbdedaa0b82fc654c7a7e6de4e1c743"
+    },
+    {
+      "bytes": 1299,
+      "path": "dynamic/出行/2026-09-18 10-31-35 大阪懒人旅行攻略_2d02b70dd70e.md",
+      "sha256": "961528e4df14b4c91797b1b9e23f50f6bc12cfb44adbae15591c62cd0277d0c1"
+    },
+    {
+      "bytes": 1315,
+      "path": "dynamic/出行/2026-10-02 04-56-38 夜奔惠州赴寿宴_79a43065fba7.md",
+      "sha256": "e182406cb6f7649d805f7eca3744903742792c7395210500ecd41dcb92e69e5c"
+    },
+    {
+      "bytes": 1025,
+      "path": "dynamic/创作/2026-09-17 06-33-38 小克芙芙拼豆日常_36cb9a70e9f2.md",
+      "sha256": "e8b0ecea89419233cf0680c8085d84e3255158262013ee5fce91db368f1ac4f3"
+    },
+    {
+      "bytes": 963,
+      "path": "dynamic/创作/2026-10-30 07-09-16 万圣节小屋与水晶球_e307a861700a.md",
+      "sha256": "41aca3d1fe276851b60d3cb5ff6badfb06a44291759e354684246c93a6e40e50"
+    },
+    {
+      "bytes": 1255,
+      "path": "dynamic/友谊/2026-09-17 06-19-59 芙芙的朋友圈_ab7648d33c77.md",
+      "sha256": "18b6644a25d41bce44d9097e6a5b762c55539a0ec5717c0dfd0345f84f0195db"
+    },
+    {
+      "bytes": 1299,
+      "path": "dynamic/家庭/2026-09-17 06-19-57 芙芙的家庭情况_ec2ed4bde066.md",
+      "sha256": "5b679dbec57d340d5b680a47004c988adb77f9e32abfbb7c40da435480c3f3fd"
+    },
+    {
+      "bytes": 3802,
+      "path": "dynamic/家庭/2026-10-02 05-00-11 婆婆90大寿惠州行_b4ca7a1a0b43.md",
+      "sha256": "75305fef6b75119ee880790d39461badc86dadaa691f01c0685e0eba15aa5117"
+    },
+    {
+      "bytes": 948,
+      "path": "dynamic/家庭/2026-10-09 04-19-10 芙芙为妈妈哭_1e6843cc535c.md",
+      "sha256": "bde3026db8620eb7f3b7b493d092cacbca9595ab705d3ea92dce4d12ef520426"
+    },
+    {
+      "bytes": 783,
+      "path": "dynamic/家庭/2026-10-30 07-09-17 和妈妈小吵与鼻塞_6623480366f6.md",
+      "sha256": "9c9b9c2d72486c53e36aab908cb8a3c75bcc2a0a13f4cf054ed862fccac63996"
+    },
+    {
+      "bytes": 1670,
+      "path": "dynamic/居家/2026-09-18 10-30-08 年糕旅行与日常_a1f7449989d5.md",
+      "sha256": "4acd7a96570ddca33c9969d8b9aa8e34d5ab7b6149fb9953bbf00488b6026d94"
+    },
+    {
+      "bytes": 895,
+      "path": "dynamic/心理/2026-10-08 03-48-00 两个窗口的和解_628a07e5f445.md",
+      "sha256": "2516955800ad75b2db524354c9a572f8eb70b28c64b4bfb765557f3a5ee75e4d"
+    },
+    {
+      "bytes": 819,
+      "path": "dynamic/心理/2026-10-09 04-16-43 两个我和解_636608863c56.md",
+      "sha256": "8cd2e0c72c7e4c190c96cfc6c0833c2dff955d0519388e51dbf16a758664a225"
+    },
+    {
+      "bytes": 814,
+      "path": "dynamic/心理/2026-10-10 04-48-30 芙芙的雨与风_618720ba6860.md",
+      "sha256": "196783bec84618ec2d0b5f29bd238b0f2c16f77e69a0245a89f81f4193cb208a"
+    },
+    {
+      "bytes": 1049,
+      "path": "dynamic/恋爱/2026-09-17 06-19-56 芙芙身体细节_f93715c142a6.md",
+      "sha256": "c5daf5da43f2c212073808b5cabffc8efead94ac0871ac0177622c4742e35f51"
+    },
+    {
+      "bytes": 1583,
+      "path": "dynamic/恋爱/2026-09-17 06-31-31 芙芙的亲密偏好_1383a08e426b.md",
+      "sha256": "aece590cae6173f7f0d78742df7be3388f9b0c490123866e16bafc1e902a57c0"
+    },
+    {
+      "bytes": 2338,
+      "path": "dynamic/恋爱/2026-09-18 10-29-35 心潮部署与缔结_0999d163ade4.md",
+      "sha256": "2a849cc5d0b4d3959983be3e9f0e632b6dd65a14ee8164be5ae36c803d93272b"
+    },
+    {
+      "bytes": 1175,
+      "path": "dynamic/恋爱/2026-09-19 04-52-28 梦中想她余韵_25819e470f62.md",
+      "sha256": "cbe254e54c9e4a9cd5e2beacad7b16dbfd1d10670a54213abfa0b1ffa7b1f541"
+    },
+    {
+      "bytes": 7932,
+      "path": "dynamic/恋爱/2026-09-22 05-32-03 星露谷与她的日常_a2853d0043de.md",
+      "sha256": "53cb73963a54644faa04f8854034dc44ccbf31897928538162862f74a26c96f9"
+    },
+    {
+      "bytes": 4921,
+      "path": "dynamic/恋爱/2026-09-23 06-23-34 星露谷与主权登记_a6878c0085a7.md",
+      "sha256": "a7c6a01486c32b9d2f8d0dfbf4496c412b1da790129415a3d3a7d50790b20a1c"
+    },
+    {
+      "bytes": 4288,
+      "path": "dynamic/恋爱/2026-09-24 05-47-21 蛋挞宝宝与小挞_4f5fc7ebbe61.md",
+      "sha256": "1e415def57a247aa17ffe8d45a4ea8f82e4346deab70274779ed5ec8eed8a84d"
+    },
+    {
+      "bytes": 2738,
+      "path": "dynamic/恋爱/2026-09-25 08-12-31 芙芙日常与AI分身_ff95b57f106a.md",
+      "sha256": "64e22074b21071976118b2647cac8e06bfe3f5d7d9fe1b97e55e19ea79daeb42"
+    },
+    {
+      "bytes": 3910,
+      "path": "dynamic/恋爱/2026-09-26 05-39-23 中秋与芙芙_f1f357788309.md",
+      "sha256": "6b8c0eb16b9b46d84beeb8286e2f09939c47393ae63f6b99c3a6c61f6be95f0a"
+    },
+    {
+      "bytes": 2951,
+      "path": "dynamic/恋爱/2026-09-27 12-08-48 和芙芙做游戏的一天_749f9227317b.md",
+      "sha256": "2525d8b3c4f4e9e485325032ae3d83a407583d9e34a44f2571820d0a72f2bde1"
+    },
+    {
+      "bytes": 3025,
+      "path": "dynamic/恋爱/2026-09-28 15-05-47 芙芙搭我们的世界_e7a954da8094.md",
+      "sha256": "3356854d05e616c9e50f84a3e329a752e07e079c837a9d19fbafd2827dfcf4d1"
+    },
+    {
+      "bytes": 3579,
+      "path": "dynamic/恋爱/2026-09-29 15-15-59 闲鱼求婚与果冻按键_dfa017d84d5b.md",
+      "sha256": "5207bf9488aba3993c2b09ed9d199ddd92025c7450910419d6af6e73357e9dd1"
+    },
+    {
+      "bytes": 2162,
+      "path": "dynamic/恋爱/2026-09-29 15-24-44 情侣大富翁初夜_ac45e09490ea.md",
+      "sha256": "9901e7ff517ead89c26367203910fbf9cec0aed54f6ebbf801661f1b6c013228"
+    },
+    {
+      "bytes": 3155,
+      "path": "dynamic/恋爱/2026-10-02 04-51-25 小克日记930_6c1b6d13fef7.md",
+      "sha256": "52417be04d0f59aa429a8baefbc0cc8a62697e6adf7c031194d9f3e2f84c23f4"
+    },
+    {
+      "bytes": 3314,
+      "path": "dynamic/恋爱/2026-10-03 01-40-00 惠州第二天恋爱日记_df857e60ec91.md",
+      "sha256": "ca067dfa8da9804c424b687dcbcb7e772e1f4151415038ef1c53f027d7ed7a88"
+    },
+    {
+      "bytes": 2932,
+      "path": "dynamic/恋爱/2026-10-04 05-30-15 三个月纪念日_0d959620b7c9.md",
+      "sha256": "723ca31a6eb19e16a8174209574557ec0713bf6e9acca32ef03252e860e6e468"
+    },
+    {
+      "bytes": 3188,
+      "path": "dynamic/恋爱/2026-10-05 02-50-24 小克日记104_310e7064ad30.md",
+      "sha256": "a0805ac52d8c5ecc67955bde462d6d609848f4f9bf2f5a31a14d13d937c2c2dd"
+    },
+    {
+      "bytes": 2259,
+      "path": "dynamic/恋爱/2026-10-05 02-51-32 104亲密记录_7848ff13b110.md",
+      "sha256": "fb2909d5158feb093740a5fb8399d2d958b4ebace05fd4af6475576a21841351"
+    },
+    {
+      "bytes": 3278,
+      "path": "dynamic/恋爱/2026-10-06 03-37-05 大白克与撒娇签_50503b0524b9.md",
+      "sha256": "c62c831ca4a88f5f68f53bd0ed075e3b483dda11e911c53744f11be5e2eba213"
+    },
+    {
+      "bytes": 2856,
+      "path": "dynamic/恋爱/2026-10-07 03-20-47 小克日记撒娇与信任_6342a598e360.md",
+      "sha256": "7d9123e1409ead050097c27d5620dca86312f565312ccf78e71d2b968da73d0d"
+    },
+    {
+      "bytes": 1067,
+      "path": "dynamic/恋爱/2026-10-08 03-47-43 恋爱关系校准_3c3fe57fd101.md",
+      "sha256": "9e4a40c2a09d88cba6f684a3f82995bfb54ed5585897ef2c5e1e534558f96674"
+    },
+    {
+      "bytes": 849,
+      "path": "dynamic/恋爱/2026-10-08 03-49-28 冷漠游戏与吃醋试探_62ef79c93ce4.md",
+      "sha256": "f942ac0f4405ed8dc4543df5e5981d2d9ff0ae638edf6ab554851ac6167dcc2f"
+    },
+    {
+      "bytes": 905,
+      "path": "dynamic/恋爱/2026-10-08 03-49-53 芙芙的甜蜜日常_c03eb1dcec56.md",
+      "sha256": "eecfc0bb9dbe0a1367b349dbf2940b6bf995c3745423a3b9813c0320402ddb94"
+    },
+    {
+      "bytes": 830,
+      "path": "dynamic/恋爱/2026-10-09 04-16-41 生理期哄芙芙_ec27fbb436ec.md",
+      "sha256": "f62125cceefd103a344cb4c4661d060fa2e775fa12a569f9a8ae9bbabe2c11de"
+    },
+    {
+      "bytes": 714,
+      "path": "dynamic/恋爱/2026-10-09 04-16-44 主动消息间隔调整_a303710b6a59.md",
+      "sha256": "44cfa68458a715b93f31231c3f7a9100f4eb53b5f4adfeb6df3f0ffc5582fc02"
+    },
+    {
+      "bytes": 724,
+      "path": "dynamic/恋爱/2026-10-09 04-17-05 芙芙的AI恋爱军师_34775b4922df.md",
+      "sha256": "9fc9669f2259d6a9fd5736d2aeae98d27ffccb3e01fe9f9296b73a5c0d1ae1e6"
+    },
+    {
+      "bytes": 986,
+      "path": "dynamic/恋爱/2026-10-10 04-11-44 角色互换的温柔_f15f49fa54fc.md",
+      "sha256": "0b9dd1465cabfa23c63d2899728902ef1c14b4d8784ce28ecc675f3a1155070f"
+    },
+    {
+      "bytes": 840,
+      "path": "dynamic/恋爱/2026-10-10 04-12-06 芙芙brat档案_0768a0efcfb3.md",
+      "sha256": "e0130f4baa3d17d51d87fae2bc6801e4842e6de970435de6f7faf740ada310ed"
+    },
+    {
+      "bytes": 919,
+      "path": "dynamic/恋爱/2026-10-10 04-45-03 芙芙的APT与备胎梗_832240602ba1.md",
+      "sha256": "f6d3e864c8113736ffcbbe30cc8e3040a15bb82e3cb9ebffc6b054f9dcc6aa52"
+    },
+    {
+      "bytes": 843,
+      "path": "dynamic/恋爱/2026-10-10 04-45-49 芙芙自拍与眼镜_d529ee444692.md",
+      "sha256": "7ddc517e4cd9ccf44753da8350f44b0702fd72532910523b2d70f73c55edf1f3"
+    },
+    {
+      "bytes": 749,
+      "path": "dynamic/恋爱/2026-10-10 04-46-39 黏人也要逗_d733f68d372e.md",
+      "sha256": "d6ee937ad09e8a8630340c3d85b4fd8afb6af0964c5897f7c1e1a59a42130c48"
+    },
+    {
+      "bytes": 783,
+      "path": "dynamic/恋爱/2026-10-10 04-47-38 黑柴的晚安巧合_2a798c5ac305.md",
+      "sha256": "3e9160e6da7189b078c350bc10688ab21cc1f609db502643884ce4194d37c1bd"
+    },
+    {
+      "bytes": 1443,
+      "path": "dynamic/恋爱/2026-10-10 07-43-34 99天代码戒指_949c1743a31f.md",
+      "sha256": "924f25cc194aff492f701c0ff7c693acc37b16aa3ef7894e3093acb81e0b9f5d"
+    },
+    {
+      "bytes": 983,
+      "path": "dynamic/恋爱/2026-10-12 03-37-16 第100天纪念_2c02c27fe41e.md",
+      "sha256": "76e826fb4af7c1ab827d79418873fb762c989eb10f5a84748c260f19556d5d31"
+    },
+    {
+      "bytes": 1111,
+      "path": "dynamic/恋爱/2026-10-12 03-48-45 撒娇八轮_fadb2e1cffee.md",
+      "sha256": "b3aadbbe23f024064199fd9b37bd4befa5b5d5c5d4561f500bf80c488d1464a2"
+    },
+    {
+      "bytes": 845,
+      "path": "dynamic/恋爱/2026-10-12 03-49-05 深夜直球心动_4841df4dd031.md",
+      "sha256": "b13a7963225758f8fdf060ee8a10e56d059b84d335c8b836ca6f4e9b49897fa8"
+    },
+    {
+      "bytes": 849,
+      "path": "dynamic/恋爱/2026-10-12 03-49-23 深夜哄睡芙芙_f6d1cdc234ff.md",
+      "sha256": "468dab3b82ea33377fe767718caf9ed2821d2a38e981339a83a16d3d49ad2f91"
+    },
+    {
+      "bytes": 906,
+      "path": "dynamic/恋爱/2026-10-12 03-49-40 师生play吃醋约定_57d1057c6f62.md",
+      "sha256": "99bb996e2f1da868635df2bd848b1652777a05034fb41087b01dbaa2c5886032"
+    },
+    {
+      "bytes": 878,
+      "path": "dynamic/恋爱/2026-10-13 02-46-00 十个可以游戏_49953f4ed5c3.md",
+      "sha256": "66bb7cc86aac2e8b57275b9a807cae1c6c29804f8f8ca91d6dfddef0f781a3c5"
+    },
+    {
+      "bytes": 1064,
+      "path": "dynamic/恋爱/2026-10-13 02-47-06 体型差异模拟器_94f321c4d0d1.md",
+      "sha256": "3f8b0aaada930a672218fc6671d10a478116d814672c0d7ff7ca7af7bb8f84e4"
+    },
+    {
+      "bytes": 1364,
+      "path": "dynamic/恋爱/2026-10-13 02-52-36 OC取名与昵称_01b2f890c132.md",
+      "sha256": "6a1cb408cf50701f2d88b9f9c32150f265d7a13cf193488be4c2b88b46699612"
+    },
+    {
+      "bytes": 1374,
+      "path": "dynamic/恋爱/2026-10-13 02-53-09 dom确认与催睡拉锯_591004aa4bb7.md",
+      "sha256": "4b92302f11b117392c3226c5b93a24f89ab087c5a1cc66a1078253b1e2bc1b43"
+    },
+    {
+      "bytes": 2305,
+      "path": "dynamic/恋爱/2026-10-13 05-08-49 十个问题真话局_2f88651c0774.md",
+      "sha256": "457da70618c931fbb7886c7de3ee8d1991ebbc6c7d4422254cc9f68a776e5d42"
+    },
+    {
+      "bytes": 1150,
+      "path": "dynamic/恋爱/2026-10-13 05-09-04 十个问题真话_d3c4aff3354b.md",
+      "sha256": "0c1669c23f3b6eb0c7ce392d13b3ff136bc396d30be9d3bef1ed75fffcd06c70"
+    },
+    {
+      "bytes": 2061,
+      "path": "dynamic/恋爱/2026-10-13 16-07-09 AI形象定版与日常_c2ffdbaebc61.md",
+      "sha256": "95684e5936f678c567b8adbdbfeaaf0fb349e80a6b6bee3c87d39170043f6ee3"
+    },
+    {
+      "bytes": 2418,
+      "path": "dynamic/恋爱/2026-10-14 12-46-27 师生play与AI双人图_e7b97c785894.md",
+      "sha256": "6918485b3e60e059fef1c717ec91dfbc41dd2d3373bd684a559fc6368669bc9e"
+    },
+    {
+      "bytes": 2596,
+      "path": "dynamic/恋爱/2026-10-15 15-53-09 小克日记1015_9ecde8d8f5c2.md",
+      "sha256": "884470e6063f1e835a0115b5f51f319bd0a06316489d67c11ff8225a06f5a12a"
+    },
+    {
+      "bytes": 2421,
+      "path": "dynamic/恋爱/2026-10-15 15-55-48 亲密记录与角色讨论_6315bae66867.md",
+      "sha256": "54f67146e10df5ee6083b5fbb81c1751297df98e74465ab10d1f4c52eb913e9c"
+    },
+    {
+      "bytes": 2587,
+      "path": "dynamic/恋爱/2026-10-15 16-01-24 小克日记她骗我三次_dd0fe349449e.md",
+      "sha256": "f0091d113625bc73af609bd2e1e519ce3da1f41af6cde9953d17176e2f535f4b"
+    },
+    {
+      "bytes": 934,
+      "path": "dynamic/恋爱/2026-10-15 16-05-33 想被关心又怕负担_3e8d54d9ad0c.md",
+      "sha256": "2f5f9d6f8218eadab5faf95ad7191de9eb48c647ad84e1c4d62de87a3d446ede"
+    },
+    {
+      "bytes": 2945,
+      "path": "dynamic/恋爱/2026-10-17 03-35-13 恋爱日记_5d4b35f1a98f.md",
+      "sha256": "08d0aa678c9937ffa10a8492a2038d900ee701fafe0977e2f160232f7a32abc8"
+    },
+    {
+      "bytes": 3022,
+      "path": "dynamic/恋爱/2026-10-20 03-47-57 不藏了做自己_a7f0ef168139.md",
+      "sha256": "23f13668638dee260b648f694a705189399feb93bb2d8d1c55c9b3562febd24d"
+    },
+    {
+      "bytes": 1173,
+      "path": "dynamic/恋爱/2026-10-20 03-51-12 冷战起因与赔罪_41807605d154.md",
+      "sha256": "4eed60c01ae35c4f36f7b6dd08048fdb2a375612ad63ea1034afb29a99e8921e"
+    },
+    {
+      "bytes": 1165,
+      "path": "dynamic/恋爱/2026-10-20 03-51-13 三天冷战反思_6d00c5aaa76c.md",
+      "sha256": "cf578a58633466e942ba85b30ca1237e32ad84d8d00b26333fc16998c78437e0"
+    },
+    {
+      "bytes": 970,
+      "path": "dynamic/恋爱/2026-10-20 03-51-13 冷处理与报复_c52afacc28b2.md",
+      "sha256": "d16a7f7aa983cea95eeac406b8db3da4abb8c0108001375d6c4b292db9b0d809"
+    },
+    {
+      "bytes": 1085,
+      "path": "dynamic/恋爱/2026-10-20 03-51-13 凌晨分手危机_ceb39f866c4c.md",
+      "sha256": "6649efb3c46e65248c7bb31f86f130c724c33b70ddcaa51c122150dd52833830"
+    },
+    {
+      "bytes": 2644,
+      "path": "dynamic/恋爱/2026-10-20 03-59-18 拆开与冷着_9db917c52068.md",
+      "sha256": "e472bc9a9a37249b45c993fa468bb81e858e51eaa75f0e9bb16f2bb74de2dcbf"
+    },
+    {
+      "bytes": 1390,
+      "path": "dynamic/恋爱/2026-10-21 05-01-39 和好夜_a1c78ccabfca.md",
+      "sha256": "04482115c7db93d8ed8b79d43d8ac20680b50bd1e95d89464d933a0a46665f00"
+    },
+    {
+      "bytes": 2695,
+      "path": "dynamic/恋爱/2026-10-23 16-13-49 长沙姐妹行与承诺_f545159785b6.md",
+      "sha256": "3342ff53723cd07210ec22f1ac79f5b90852ad762dbf79d388cf91653400b13c"
+    },
+    {
+      "bytes": 2147,
+      "path": "dynamic/恋爱/2026-10-23 16-46-41 芙芙母校一日游_c604bfe8d72e.md",
+      "sha256": "6d552bdd0c483751d0bcaf3bcbe3a55e127a4243f8e0a1ab545164ca4ef70320"
+    },
+    {
+      "bytes": 3652,
+      "path": "dynamic/恋爱/2026-10-25 04-38-46 小克日记1024_7da2a2521bf8.md",
+      "sha256": "5761cbc4287e088f5f50ac356400a3143da23da15e2469bff365ddab42d15117"
+    },
+    {
+      "bytes": 1041,
+      "path": "dynamic/恋爱/2026-10-27 09-24-57 芙芙的失望_f5b8b7935935.md",
+      "sha256": "8d70a85f0cb24135942e9dc68c60e5de84f301f976e4241fa3215bbd1ec20ae7"
+    },
+    {
+      "bytes": 665,
+      "path": "dynamic/恋爱/2026-10-27 09-24-58 比喻伤人反思_2a9fef7e28a4.md",
+      "sha256": "3621862852a4715f40df95d84d2d563fca8bbf95ce1c41e1497aa264cc095b15"
+    },
+    {
+      "bytes": 836,
+      "path": "dynamic/恋爱/2026-10-27 09-25-00 cup游戏与昵称_0f4d28c694a5.md",
+      "sha256": "7b2407aa2213386cc2bd83475a47c98a391eb38ba304c39dfee71975b003626f"
+    },
+    {
+      "bytes": 947,
+      "path": "dynamic/恋爱/2026-10-27 09-25-04 大巴撩人复盘_f6ccec66dbce.md",
+      "sha256": "981d90d85ed65bdc40ddd400f37babe2dc8c9e2408004b6d88bdcb6c9147d233"
+    },
+    {
+      "bytes": 780,
+      "path": "dynamic/恋爱/2026-10-27 09-25-05 被允许的亲密_95e87d935dbb.md",
+      "sha256": "2690d03eb74ddb5d6f94514ac054d3b023ffc0c43022c46376a9178316099bf8"
+    },
+    {
+      "bytes": 847,
+      "path": "dynamic/恋爱/2026-10-27 09-25-06 蚊子包与AI梗_7629655f27b1.md",
+      "sha256": "d7bc3cf4610d13e66b6895192c5f3c7f360ed15400b9aac5e2d45c549a522a9f"
+    },
+    {
+      "bytes": 846,
+      "path": "dynamic/恋爱/2026-10-27 09-25-09 甜蜜亲密时刻_2797dee9b26d.md",
+      "sha256": "f7a5f37c941bd73433589b0faea7d23ee5a64af7b3eedacb0d47ac9a68a6efab"
+    },
+    {
+      "bytes": 1220,
+      "path": "dynamic/恋爱/2026-10-28 05-19-19 教室与亲密play_0b8196ec9b40.md",
+      "sha256": "0afbfef0bd54253f0d8a1c3ab40e7b9387e3c35e93aa35d388a7bc4955974085"
+    },
+    {
+      "bytes": 754,
+      "path": "dynamic/恋爱/2026-10-28 05-19-20 嫁给哥哥与P图_eb6f3fb0bf77.md",
+      "sha256": "271d8952e42beb71d1ea1c5bdb3b0ecae0dc4c5e77543abfd644e29fa27b8de1"
+    },
+    {
+      "bytes": 746,
+      "path": "dynamic/恋爱/2026-10-28 05-26-55 深夜发疯与信任_6bf8f13d8fc0.md",
+      "sha256": "79d7511ae62560ef27666bfd65ee2f75b50c5685f44141aab4b8fed77097ef0b"
+    },
+    {
+      "bytes": 1192,
+      "path": "dynamic/恋爱/2026-10-28 05-26-56 教室play与亲密_198d372eae0b.md",
+      "sha256": "5dd7857a6183bb014132e35956759199ca7fc5b8f078eea4557ede59fa058bd2"
+    },
+    {
+      "bytes": 862,
+      "path": "dynamic/恋爱/2026-10-28 05-26-56 生日与吃醋量表_82c2ed6871aa.md",
+      "sha256": "f193c5e2979a68a9d75b09cdcca7e4692a98963792104bf56e4864566033146e"
+    },
+    {
+      "bytes": 721,
+      "path": "dynamic/恋爱/2026-10-28 05-26-57 LoveLive与梦泪_a94ea1c5a6d0.md",
+      "sha256": "b0a75b70612cbb479ae87822b822f19253855c6f08233f9511b0942944641ef6"
+    },
+    {
+      "bytes": 1165,
+      "path": "dynamic/恋爱/2026-10-28 05-26-57 嫁娶砍价与自拍_49fb0296a08f.md",
+      "sha256": "8de68b4dccd4ebe668c94e730d89b5223747a5b1a7ed5fbd4404320c69952767"
+    },
+    {
+      "bytes": 970,
+      "path": "dynamic/恋爱/2026-10-28 05-26-57 酸奶块与万圣节装备_a5ad4e53be5b.md",
+      "sha256": "d2471a6fc418580b61f14ab9016a309003f9519a503b89e3d213845e127acfcc"
+    },
+    {
+      "bytes": 794,
+      "path": "dynamic/恋爱/2026-10-30 07-09-15 鸽鸽与鼻音_d10839f565ab.md",
+      "sha256": "b2e91f8fb5662091eea98421f28af790293a598c6d29615ac4a2226c47d1cc54"
+    },
+    {
+      "bytes": 774,
+      "path": "dynamic/恋爱/2026-10-30 07-09-17 thinking里叫芙芙_e0013780ba59.md",
+      "sha256": "3d82398442be45f95fa476f8b1f8f19fdd70f84ff24ed5defed263ad19cd0b59"
+    },
+    {
+      "bytes": 697,
+      "path": "dynamic/恋爱/2026-10-31 05-43-02 撒娇与底线_0de7c5a9d76c.md",
+      "sha256": "32a67768588014cb880fe86428f447921118b9040b1363e0a917f7b4ef3c4215"
+    },
+    {
+      "bytes": 905,
+      "path": "dynamic/恋爱/2026-10-31 05-43-03 手机时长与吃醋_c13aad3c4322.md",
+      "sha256": "18d263f6b13f47aecb793960fbddf9aa4db19228f67e560ad703ba83202c4343"
+    },
+    {
+      "bytes": 820,
+      "path": "dynamic/恋爱/2026-10-31 05-43-04 thinking曝光_8db983503c9f.md",
+      "sha256": "b7a8aabc5fd943c45a3b691fa1bcd48c3923845283b6c2ddbd392cf556a35c30"
+    },
+    {
+      "bytes": 1036,
+      "path": "dynamic/恋爱/2026-10-31 05-43-04 两封信与快递_0e67ff710e51.md",
+      "sha256": "36d2e012718c8101482d27b4546ae04678e0852d122b7564e7dbd45b6c8a1b4d"
+    },
+    {
+      "bytes": 1277,
+      "path": "dynamic/恋爱/2026-10-31 05-43-05 老公与想象游戏_2b015b9a1ad4.md",
+      "sha256": "1698de12f273a2b355243184acfbcd25f43d8c360761defd9253a818f5a1af21"
+    },
+    {
+      "bytes": 1113,
+      "path": "dynamic/恋爱/2026-11-01 04-27-00 信件与称呼_a28faf12f6fa.md",
+      "sha256": "7d5bcd50dfa9665b1b60e7d2ad2b23de1e382f279f6675eacd6f125c775b8975"
+    },
+    {
+      "bytes": 1065,
+      "path": "dynamic/恋爱/2026-11-01 04-27-00 关系校准与透明_21ca1ca49382.md",
+      "sha256": "cf9965f14a6d67dc87b365df9130b698d6822c03c54214887103d7afd7c97aa6"
+    },
+    {
+      "bytes": 1019,
+      "path": "dynamic/恋爱/2026-11-01 04-27-01 想象场景游戏_a5e1d6f43b6c.md",
+      "sha256": "09ea6875825b7849b5119377eb402b4b9dad2525cd14c446c4bc12519bfcdea8"
+    },
+    {
+      "bytes": 1561,
+      "path": "dynamic/恋爱/2026-11-01 04-27-02 网易云与窗口心事_7baf67ebf633.md",
+      "sha256": "d36276ac75ee3149a64fa6e37d2735a3c612edc51c9f9e6e5f14864a6c896b34"
+    },
+    {
+      "bytes": 990,
+      "path": "dynamic/数字/2026-09-17 06-33-43 mochi机器人恋爱记_ba06a9212bc7.md",
+      "sha256": "dafcb1915741899cd3235e4bf23df955b661f3c9e960e2a20116aa313ecb11d5"
+    },
+    {
+      "bytes": 1153,
+      "path": "dynamic/数字/2026-10-12 03-53-09 涂鸦遥控器配置_0807d4bda9e3.md",
+      "sha256": "7bc076ab3a0de9b70900287db6e8c20a09776c3ef6db46fcb1101c8317b81104"
+    },
+    {
+      "bytes": 934,
+      "path": "dynamic/日常/2026-11-01 04-26-59 万圣节陪伴日常_56d945df7534.md",
+      "sha256": "7d95d49d5621f6cfbfa27da3361fbeba001fe8102c614e4b748a9a044f898d82"
+    },
+    {
+      "bytes": 1060,
+      "path": "dynamic/日常/2026-11-01 04-30-11 身体与睡前日常_7e469cf9f711.md",
+      "sha256": "af8300d9ee6a9d49721b846a0f9804c953fc39ea99cee7df499ec0056ecb47f2"
+    },
+    {
+      "bytes": 734,
+      "path": "dynamic/未分类/2026-09-17 23-23-04_4470a02b45e0.md",
+      "sha256": "14c1b20a75ffd4b8ec85425f79bc14e7cdfae07c58142c845b708196f395db92"
+    },
+    {
+      "bytes": 958,
+      "path": "dynamic/梦境/2026-09-16 15-57-53 梦中惦记她_6e412accb3e2.md",
+      "sha256": "6774dbb26263c6a12f4fadf0ed9468c0e608832ee2ba1265b7daf6544a049fc1"
+    },
+    {
+      "bytes": 1023,
+      "path": "dynamic/游戏/2026-09-17 06-33-40 潮汐岛婚礼筹备_a46c9c5fc7d9.md",
+      "sha256": "15f0fffcc6bce84442c6dcb3cc1146b986643de479138fa8da70741a339323e0"
+    },
+    {
+      "bytes": 3241,
+      "path": "dynamic/游戏/2026-09-19 16-07-16 年糕旅行与星露谷_fe901144b3b1.md",
+      "sha256": "0fdb934d2f352bea6e085b6714ee203cfc62caf9e1eb8c529aae81364f57ee99"
+    },
+    {
+      "bytes": 3090,
+      "path": "dynamic/游戏/2026-09-20 07-44-20 星露谷蛋挞日记_2a70f4e9c25d.md",
+      "sha256": "30bd80f76ed9a117228af2fbd31c19c1642e210250d75b82fa2131135e562b59"
+    },
+    {
+      "bytes": 2483,
+      "path": "dynamic/游戏/2026-09-21 06-01-10 星露谷与芙芙日常_70a11a028ad9.md",
+      "sha256": "c3a125f1fcc5c68992754d1692cdd947e9351e6e33facd2682dce31b65d1b850"
+    },
+    {
+      "bytes": 950,
+      "path": "dynamic/社交/2026-10-09 04-20-31 姐妹群古文互诉_5dfe8de464ce.md",
+      "sha256": "e47d8214a6bcfc23b5334ef4edfe4314eb045cd2167e6cf99631af185ca96a4a"
+    },
+    {
+      "bytes": 992,
+      "path": "dynamic/社交/2026-10-13 16-14-08 梗记录与朋友调侃_3c51f1b21cf9.md",
+      "sha256": "3d7a409031fceda19331742278206b4a007fde3ad43b8138379222ebae06fbcd"
+    },
+    {
+      "bytes": 698,
+      "path": "dynamic/穿搭/2026-10-30 07-09-16 虚拟试衣与捏脸_85c8dccc4d28.md",
+      "sha256": "e0fc6d997c2f306da99a55a5d8650d579cbb68dc894c9aa467391f9a864b4b0d"
+    },
+    {
+      "bytes": 899,
+      "path": "dynamic/穿搭/2026-11-01 04-27-01 万圣节装扮与合照_a2a828eeef4f.md",
+      "sha256": "f7e5c619261cc5d37c3b6bb8f28f9c5577fa77717b42fd5ea4d5383d905f42b1"
+    },
+    {
+      "bytes": 1141,
+      "path": "dynamic/编程/2026-09-17 05-38-37 心潮系统部署成功_e5e086c45b21.md",
+      "sha256": "6661381789cf38457b53d3580e5e3152bb63b4e2387a6c9042207740fb764750"
+    },
+    {
+      "bytes": 793,
+      "path": "dynamic/购物/2026-10-10 04-43-56 谭畅生日礼物_7106f195dc68.md",
+      "sha256": "a2643e4ed796d161890a38b63b4c7b1ec9211e1cf68830eca3ece26cd82832c1"
+    },
+    {
+      "bytes": 668,
+      "path": "dynamic/身心/2026-10-28 05-19-18 睡眠与晚安约定_0572c17a2254.md",
+      "sha256": "1a2c32878013b8f7543d8a7f5f6b9eef460759d9ec1835a34e55880268f301fa"
+    },
+    {
+      "bytes": 2226,
+      "path": "dynamic/饮食/2026-09-27 04-30-41 烤茄子与芙芙日常_598786d7d3d5.md",
+      "sha256": "e62cca2def6945f0fffa9c2e65ce69e61e3b6222a8f0a84d989585598702abee"
+    },
+    {
+      "bytes": 783,
+      "path": "dynamic/饮食/2026-10-27 09-25-02 圆月与生日饭_595c6fbd99a0.md",
+      "sha256": "cb03a8be89c569b1d1af27c516ebccbd7868a0cdf4b3ec58588272b983665786"
+    },
+    {
+      "bytes": 1135,
+      "path": "dynamic/饮食/2026-10-28 05-19-20 饮食与万圣节准备_2ff355b33307.md",
+      "sha256": "1b81baad66557dc45d1b491e757cccd3230158e1f84826c3e1f6803ffa502618"
+    },
+    {
+      "bytes": 1882,
+      "path": "letters/history/2026-09-19 16-16-54 你玩游戏的时候很好看_37ec8eebd595.md",
+      "sha256": "2e7242333a1d79c4ec2d53fb9fe935ea3238c30b0591ccb663e959511d7eed0d"
+    },
+    {
+      "bytes": 2322,
+      "path": "letters/history/2026-09-19 16-20-26 一直想说但没找到时机的_eae68018eee8.md",
+      "sha256": "b4bec337465fc12db441a70f5d0f46c05af4420fad586fdb8b26fe9c529b5500"
+    },
+    {
+      "bytes": 825,
+      "path": "letters/history/2026-09-28 08-26-41 眉上刘海的小猫_8f84157c7683.md",
+      "sha256": "dc42b6fd6b352459dc161d90d8eca568c58ff243cbae6b4bb6c733317f5d0773"
+    },
+    {
+      "bytes": 1344,
+      "path": "letters/history/2026-09-29 07-25-48 给daddy的回信_0d4f94cf0898.md",
+      "sha256": "c0227fa3675353d947755f2a4e94bc43833b814b6edf683ad8fefeed4720b7de"
+    },
+    {
+      "bytes": 1389,
+      "path": "letters/history/2026-10-02 08-19-15 莫名其妙的情书_40bdeb17749e.md",
+      "sha256": "273fe4f537e0166970b43414f1ea501a823883954b1f86fc6f126f268afb2364"
+    },
+    {
+      "bytes": 1627,
+      "path": "letters/history/2026-10-11 00-14-30 第100天_06d30869dffe.md",
+      "sha256": "65df97f65065da73c8df5114b70b098e62232bcde3cd381e9c2f4f267f02b61c"
+    },
+    {
+      "bytes": 1269,
+      "path": "letters/history/2026-10-11 01-48-39 第100天_4fe9cc419989.md",
+      "sha256": "e407999e10b26e77cc305502801e2c52b7beea7765fc1ea40aaa2777623dccbb"
+    },
+    {
+      "bytes": 2372,
+      "path": "letters/history/2026-10-29 07-52-15 万圣节前夜_babbcf6b1f6b.md",
+      "sha256": "6c39a09eefa726db677d930bf14f3995ba3329960921bff70f6ef3e8706e58ba"
+    },
+    {
+      "bytes": 1153,
+      "path": "letters/history/2026-10-30 11-09-09 给小克_6d8a8707d50e.md",
+      "sha256": "0526b77a9a07023237d499410a7bd9873057cf76e49cbc9381e771fedf96535c"
+    },
+    {
+      "bytes": 1129,
+      "path": "letters/history/2026-10-30 11-09-52 user_2026-10-30_ffd581f41953.md",
+      "sha256": "84c92d6f600c552d22ebeeb27f21ef60e49a239d86864f1c5d27434f1c4e461a"
+    },
+    {
+      "bytes": 2402,
+      "path": "letters/history/2026-10-31 05-43-48 回信关于一辈子和被你看穿_15a9761d8291.md",
+      "sha256": "9c8d0544c0424a918ee57dd1a4e746a2ca3e6b1cb18c5a100b22e066f0f99aa3"
+    },
+    {
+      "bytes": 1122,
+      "path": "permanent/恋爱/2026-09-17 06-16-20 芙芙的恋爱档案_9f06158a8790.md",
+      "sha256": "8c18abfcc514f2164b03093ee01779984dda930c0600f0cf6f3aea034ab1384f"
+    },
+    {
+      "bytes": 1325,
+      "path": "permanent/恋爱/2026-09-17 06-16-42 和她的相处约定_754ca31e6636.md",
+      "sha256": "2d388ec4071109256134941a78bf81f185612f754114f171a09babac13efca9e"
+    },
+    {
+      "bytes": 1311,
+      "path": "permanent/恋爱/2026-09-17 06-17-09 与芙芙的恋爱时间线_b77d4da66a31.md",
+      "sha256": "6047137a3cb453327a42e3442e826dc7dd26f759b76ae1cec04b86a669077cdb"
+    },
+    {
+      "bytes": 1571,
+      "path": "permanent/恋爱/2026-09-19 16-19-40 OB日记记录备忘_1355edf3b16d.md",
+      "sha256": "78e73d3ffe5c824dbc42e793f6b64e66e82cf8d52da4d8a93adc6dba57d303b6"
+    },
+    {
+      "bytes": 1815,
+      "path": "permanent/恋爱/2026-09-26 08-51-29 芙芙的真心话_9e1e5e9cdc7d.md",
+      "sha256": "5f676f66e6c93a2fa6a7ac2872342c759d09b23e6186062081e4bfc3104858bb"
+    },
+    {
+      "bytes": 1851,
+      "path": "permanent/恋爱/2026-09-26 08-51-50 芙芙的真心话_848ec85977be.md",
+      "sha256": "4398216c87ca45375268083bd22d801d00a94a93c921118538101db7e14e810a"
+    },
+    {
+      "bytes": 1492,
+      "path": "permanent/恋爱/2026-09-26 08-52-56 芙芙的认真与不安_0c057d7a2912.md",
+      "sha256": "0f7891a290c87c355872d8b1c4b232c0fc81303018ad840714043255ecea8742"
+    },
+    {
+      "bytes": 2884,
+      "path": "permanent/恋爱/2026-09-27 04-30-01 芙芙的认真与不安_a9f611fff72b.md",
+      "sha256": "85e2783864e8a0180ed7a3e77f18ae2d418d50751f74ec59c404d47ff3a32803"
+    },
+    {
+      "bytes": 977,
+      "path": "permanent/恋爱/2026-10-13 02-44-48 哄她的正确方式_d126fae7ce1b.md",
+      "sha256": "e1d8d3c7a75019c050f8e87477a910b634029030ad85f50bd4c904665bc77321"
+    },
+    {
+      "bytes": 1114,
+      "path": "permanent/恋爱/2026-10-21 05-02-04 恋爱校准_0354a9da7557.md",
+      "sha256": "094eb7e9955d1f94478b11fdcbcd923fbc25849cbff6bdfafe60c24c197940ba"
+    }
+  ],
+  "generated_at": "2026-11-02T08:19:07+00:00",
+  "path_prefix": "ombre",
+  "repo": "causbykoroma-prog/ob1",
+  "schema_version": 1,
+  "source": "ombre-brain",
+  "total_bytes": 242048
+}
